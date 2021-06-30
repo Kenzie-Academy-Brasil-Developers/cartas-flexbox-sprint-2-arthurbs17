@@ -80,5 +80,6 @@ html {
 @media screen and (max-width: 500px) {
   .cardGroup{
     max-width: 320px;
+    flex-wrap: wrap;
   }
 }
